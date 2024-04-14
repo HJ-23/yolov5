@@ -64,6 +64,7 @@ from utils.general import (
     xyxy2xywh,
 )
 from utils.torch_utils import select_device, smart_inference_mode
+#from utils.plots import Annotator, colors, save_one_box
 
 
 @smart_inference_mode()
